@@ -110,7 +110,7 @@ This is where I embrace:
 
 ## 📫 Connect With Me
 
-- **GitHub:** [@hexnimble0-cloud](https://github.com/hexnimble0-cloud) *(this experimental account)*
+- **GitHub:** [@HexNimble](https://github.com/HexNimble) *(this experimental account)*
 - **Email:** [hexnimble0@gmail.com](mailto:hexnimble0@gmail.com)
 - **Portfolio:** [Coming Soon]
 
