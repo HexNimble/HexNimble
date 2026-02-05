@@ -85,11 +85,11 @@ I'm actively improving my skills in:
 
 ## 📈 GitHub Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/HexNimble?style=for-the-badge&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/HexNimble?style=for-the-badge&color=green)
-![Last Commit](https://img.shields.io/github/last-commit/HexNimble/HexNimble?style=for-the-badge&color=orange)
+![GitHub Stars](https://img.shields.io/github/stars/HexNimble?style=for-the-badge&logo=github&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/HexNimble?style=for-the-badge&logo=github&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/HexNimble/HexNimble?style=for-the-badge&logo=git&color=orange)
 
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=HexNimble&color=purple&label=Profile+Views)
+**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=HexNimble&color=blueviolet&label=Profile+Views)
 
 </div>
 
