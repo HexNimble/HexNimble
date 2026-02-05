@@ -86,8 +86,8 @@ I'm actively improving my skills in:
 ## 📈 GitHub Stats
 
 ![GitHub Stars](https://img.shields.io/github/stars/HexNimble?style=for-the-badge&color=blue)
-![GitHub Followers](https://img.shields.io/badge/Followers-0-green?style=for-the-badge&logo=github)
-![Last Commit](https://img.shields.io/badge/Last_Commit-Today-orange?style=for-the-badge&logo=git)
+![GitHub Followers](https://img.shields.io/github/followers/HexNimble?style=for-the-badge&color=green)
+![Last Commit](https://img.shields.io/github/last-commit/HexNimble/HexNimble?style=for-the-badge&color=orange)
 
 **Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=HexNimble&color=purple&label=Profile+Views)
 
@@ -110,7 +110,8 @@ This is where I embrace:
 
 ## 📫 Connect With Me
 
-- **GitHub:** [@HexNimble](https://github.com/HexNimble) *(this experimental account)*
+- **GitHub (Main):** [@hexnimble0-cloud](https://github.com/hexnimble0-cloud)
+- **GitHub (This account):** [@HexNimble](https://github.com/HexNimble)
 - **Email:** [hexnimble0@gmail.com](mailto:hexnimble0@gmail.com)
 - **Portfolio:** [Coming Soon]
 
