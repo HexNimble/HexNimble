@@ -89,7 +89,7 @@ I'm actively improving my skills in:
 ![GitHub Followers](https://img.shields.io/badge/Followers-0-green?style=for-the-badge&logo=github)
 ![Last Commit](https://img.shields.io/badge/Last_Commit-Today-orange?style=for-the-badge&logo=git)
 
-**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=hexnimble0-cloud&color=purple&label=Profile+Views)
+**Profile Views:** ![Profile Views](https://komarev.com/ghpvc/?username=HexNimble&color=purple&label=Profile+Views)
 
 </div>
 
