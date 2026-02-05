@@ -85,7 +85,7 @@ I'm actively improving my skills in:
 
 ## 📈 GitHub Stats
 
-![GitHub Stars](https://img.shields.io/github/stars/hexnimble0-cloud?style=for-the-badge&color=blue)
+![GitHub Stars](https://img.shields.io/github/stars/HexNimble?style=for-the-badge&color=blue)
 ![GitHub Followers](https://img.shields.io/badge/Followers-0-green?style=for-the-badge&logo=github)
 ![Last Commit](https://img.shields.io/badge/Last_Commit-Today-orange?style=for-the-badge&logo=git)
 
